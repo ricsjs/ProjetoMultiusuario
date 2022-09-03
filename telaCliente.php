@@ -13,7 +13,14 @@
 
     <body>
 
+        <center>
 
+            <div style="position: relative; top: 100px;">
+                <h1>Olá, seja bem-vindo ao Sistema de Multiusuáro!</h1><br>
+                <h3>Você logou como: Usuário Cliente</h3>
+            </div>
+
+        </center>
 
     </body>
 
