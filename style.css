@@ -1,0 +1,48 @@
+body{
+    background-color: lightgrey;
+}
+
+#container_login{
+    position: relative;
+    text-align: center;
+    top: 15%;
+    left: auto;
+    right: auto;
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+}
+
+#form_login{
+    position: relative;
+    text-align: center;
+    top: 20%;
+    margin: auto; width: 220px;
+}
+
+@media (max-width: 600px){
+  #container_login{
+    position: relative;
+    text-align: center;
+    top: 6%;
+    width: 300px;
+    height: 450px;
+   }
+}
+
+@media (max-width: 600px){
+    #form_login{
+        position: relative;
+        text-align: center;
+        top: 17%;
+        margin: auto; width: 220px;
+    }
+}
+
+
+#image_people{
+    position: relative;
+    top: 15%;
+}
